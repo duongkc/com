@@ -3,7 +3,7 @@ package com.example.ikm;
 /**
  * Class to
  *
- * @author Imke, Kim, Melany
+ * @author Imke, Kim, Melany, Rick
  * @version 1.0
  */
 public class MealPreparation 

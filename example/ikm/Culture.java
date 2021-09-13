@@ -1,6 +1,6 @@
 package com.example.ikm;
 
-public class Cultuur 
+public interface Culture 
 {
 
 }

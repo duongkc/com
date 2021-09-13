@@ -1,6 +1,6 @@
 package com.example.ikm;
 
-public class BereidingsWijze 
+public abstract class Recipe 
 {
 
 }

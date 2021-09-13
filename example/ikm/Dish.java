@@ -1,6 +1,6 @@
 package com.example.ikm;
 
-public class Recept 
+public interface Dish 
 {
 
 }
