@@ -8,6 +8,5 @@ package com.example.ikm;
  */
 public class MealPreparation {
 	public static void main(String[] args) {
-		System.out.println("test");
 	}
 }
