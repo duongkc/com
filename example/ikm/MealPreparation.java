@@ -6,10 +6,8 @@ package com.example.ikm;
  * @author Imke, Kim, Melany, Rick
  * @version 1.0
  */
-public class MealPreparation 
-{
-    public static void main(String[] args) 
-    {
-
-    }
+public class MealPreparation {
+	public static void main(String[] args) {
+		System.out.println("test");
+	}
 }
