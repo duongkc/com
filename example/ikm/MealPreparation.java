@@ -17,8 +17,8 @@ public class MealPreparation
         System.out.println("Welcome to the Meal Prepper!");
         System.out.println("What would you like to do?");
         System.out.println("Press 'a' if you want a meal suggestion based on what's in your fridge" +
-                "\n Press 'b' if you want a random meal suggestion" +
-                "\n Press 'c' if you want to do x");
+                "\nPress 'b' if you want a random meal suggestion" +
+                "\nPress 'c' if you want to do x");
         startChoice();
     }
 
